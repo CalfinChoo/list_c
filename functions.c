@@ -2,8 +2,6 @@
 
 struct node * linked_list() {
   struct node * l;
-  l = malloc(sizeof(struct node));
-  l = NULL;
   return l;
 }
 void print_list(struct node * p) {

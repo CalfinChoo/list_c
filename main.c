@@ -23,5 +23,6 @@ int main() {
   list = free_list(list);
   printf("\n\nPrinting list:");
   print_list(list);
+  printf("\n");
   return 0;
 }
