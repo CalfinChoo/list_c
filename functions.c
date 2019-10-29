@@ -2,6 +2,7 @@
 
 struct node * linked_list() {
   struct node * l;
+  l = NULL;
   return l;
 }
 void print_list(struct node * p) {
